@@ -5,7 +5,6 @@
 </head>
 <body>
     <?php
-        // Declare variables for your details
         $name = "Ong Yi Fung";
         $matricNumber = "AI220274";
         $course = "BIC21203 Web Development";
