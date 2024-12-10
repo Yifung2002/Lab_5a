@@ -5,7 +5,6 @@
 </head>
 <body>
     <?php
-        // Declare the array of student details
         $students = [
             [
                 'name' => 'Alice',
